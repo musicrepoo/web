@@ -7,8 +7,8 @@
 	<packaging>war</packaging>
 	<name>musicrepo</name>
 	<properties>
-		<spring.version>3.2.13.RELEASE</spring.version>
-		<jdk.version>1.6</jdk.version>
+		<spring.version>4.1.6.RELEASE</spring.version>
+		<jdk.version>1.7</jdk.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<jstl.version>1.2</jstl.version>
 	</properties>
